@@ -4,8 +4,7 @@ highlighter: pygments
 
 # Site settings
 title: "Joe Sankey"
-description: > # this means to ignore newlines until "email:"
-   Emberjs, Swift, Parse.com
+description:
 
 email: a-mail@mail.mail
 #blog logo
